@@ -9,7 +9,7 @@ int main()
     cout << "Enter operator either + (or) - (or) * (or) /: ";
     cin >> op
 
-    cout << "Enter two operands: ";
+    cout << "Enter any two operands: ";
     cin >> num1 >> num2;
 
     switch(op)
