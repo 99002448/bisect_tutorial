@@ -7,10 +7,10 @@ int main()
     float num1, num2;
 
     cout << "Enter operator either + (or) - (or) * (or) /: ";
-    cin >> op;
+    cin >> op
 
     cout << "Enter any two operands: ";
-    cin >> num1 >> num2;
+    cin >> num1 >> num2
 
     switch(op)
     {
