@@ -6,10 +6,10 @@ int main()
     char op;
     float num1, num2;
 
-    cout << "Enter operator either + (or) - (or) * (or) /: ";
+    cout << "Enter any one operator either + (or) - (or) * (or) /: ";
     cin >> op
 
-    cout << "Enter any two operands: ";
+    cout << "Enter any 2 operands: ";
     cin >> num1 >> num2
 
     switch(op)
